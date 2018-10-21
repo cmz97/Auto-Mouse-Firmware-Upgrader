@@ -1,0 +1,2 @@
+# Auto-Mouse-Firmware-Upgrader
+Designed a software using Java that can upload and verify the newest firmware to Mercedes Benz’s Engine Control Unit automatically to increase production line efficiency.Performed and implemented basic parameter modification in a Mercedes Benz’s Engine Control Unit to meet engine emission requirement set by Ministry of Environmental Protection of the People's Republic of China
