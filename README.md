@@ -1,7 +1,7 @@
 # Auto-Mouse-Firmware-Upgrader
 This software is initially created to upload and verify the newest firmware to Mercedes Benz’s Engine Control Unit automatically to increase production line efficiency. However, the nature of this software is just a script enabled mouse wizard. The program read proprietary 'kevin script' with extension of '.kScript'
 
-In short, this program will modify your mouse to do things you command it to do by giving it a script file. The tutorial on how to write a such a file is written bellow.
+**In short, this program will modify your mouse and keyboard to do things you command it to do by giving it a script file. The tutorial on how to write a such a file is written bellow.**
 
 ![alt text](https://raw.githubusercontent.com/cmz97/Auto-Mouse-Firmware-Upgrader/master/Image/0.png)
 
