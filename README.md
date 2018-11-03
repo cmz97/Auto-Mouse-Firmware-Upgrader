@@ -1,2 +1,9 @@
 # Auto-Mouse-Firmware-Upgrader
-Designed a software using Java that can upload and verify the newest firmware to Mercedes Benz’s Engine Control Unit automatically to increase production line efficiency.Performed and implemented basic parameter modification in a Mercedes Benz’s Engine Control Unit to meet engine emission requirement set by Ministry of Environmental Protection of the People's Republic of China
+This software is initially created to upload and verify the newest firmware to Mercedes Benz’s Engine Control Unit automatically to increase production line efficiency. However, the nature of this software is just a script enabled mouse wizard. The program read proprietary 'kevin script' with extension of '.kScript'
+
+This software could be used to:
+1.  repeat onscreen task
+2.  used like a supreme bot 
+
+# Presentation #
+
